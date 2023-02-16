@@ -1,0 +1,1 @@
+# playwright_sync_python_getting_started
